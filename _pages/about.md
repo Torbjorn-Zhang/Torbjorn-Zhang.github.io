@@ -52,6 +52,8 @@ Thank you for considering my application!
 
 <p><strong>PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference</strong> <a href="https://arxiv.org/abs/2405.12532">[PDF]</a> <a href="https://github.com/mutonix/pyramidinfer">[Github]</a> </p>
 <p>Dongjie Yang*, XiaoDong Han, Yan Gao, Yao Hu, <strong>Shilin Zhang</strong>, Hai Zhao*</p>
+</div>
+</div>
 ---
 
 ---
