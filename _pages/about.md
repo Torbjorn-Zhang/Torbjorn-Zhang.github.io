@@ -32,9 +32,12 @@ Thank you for considering my application!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Oral</div><img src='images/mllm-judge.jpg' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark [Github](https://github.com/Dongping-Chen/MLLM-Judge) [Website](https://mllm-judge.github.io/) [PDF](https://arxiv.org/abs/2402.04788)
+<p>MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark [Github](https://github.com/Dongping-Chen/MLLM-Judge) [Website](https://mllm-judge.github.io/) [PDF](https://arxiv.org/abs/2402.04788)</p>
 
-Dongping Chen *, Ruoxi Chen *, <strong>Shilin Zhang</strong> *, Yinuo Liu *, Yaochen Wang *, Huichi Zhou *, Qihui Zhang *, Yao Wan, Pan Zhou, Lichao Sun
+<p>Dongping Chen *, Ruoxi Chen *, <strong>Shilin Zhang</strong> *, Yinuo Liu *, Yaochen Wang *, Huichi Zhou *, Qihui Zhang *, Yao Wan, Pan Zhou, Lichao Sun</p>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 Findings</div><img src='images/ACL2024.jpg' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,6 +50,7 @@ Qihui Zhang *, Chujie Gao *, Dongping Chen *, Yue Huang, Yixin Huang, Zhenyang S
 <div class='paper-box-text' markdown="1">
 
 PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference [Github](https://github.com/mutonix/pyramidinfer) [PDF](https://arxiv.org/abs/2405.12532) 
+---
 
 ---
 # 🎖 Honors and Awards
