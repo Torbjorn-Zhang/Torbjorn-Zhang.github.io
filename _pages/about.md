@@ -34,7 +34,7 @@ Thank you for considering my application!
 
 MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark [Github](https://github.com/Dongping-Chen/MLLM-Judge) [Website](https://mllm-judge.github.io/) [PDF](https://arxiv.org/abs/2402.04788)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Dongping Chen *, Ruoxi Chen *,* Shilin Zhang **, Yinuo Liu *, Yaochen Wang *, Huichi Zhou *, Qihui Zhang *, Yao Wan, Pan Zhou, Lichao Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
