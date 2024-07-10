@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-#Hi! I'm Shilin Zhang. 
-##I am currently seeking opportunities to further my education and research in the field of robotics, either as a master's or PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
+# Hi! I'm Shilin Zhang. 
+## I am currently seeking opportunities to further my education and research in the field of robotics, either as a master's or PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
 
 ---
 
