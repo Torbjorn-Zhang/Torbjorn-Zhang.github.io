@@ -59,7 +59,7 @@ Thank you for considering my application!
 - *2023.07 - 2023.11* Applied Optimization and Learning Research in Shanghai Jiao Tong University, Shanghai
 - *2023.04 - 2023.07* Porsche online PTA about New Energy Vehicle Charging Process Technology in Guangzhou
 - *2022.11 - 2023.01* Investigated production line issues within Stanley Electric at Stanley Electric Co., Ltd.
-- 
+
 # 📖 Educations
 - *2021.09 - now*, South China University of Technology, Intelligence Manufacturing 
 
