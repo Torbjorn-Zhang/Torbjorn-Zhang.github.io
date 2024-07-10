@@ -32,7 +32,7 @@ Thank you for considering my application!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Oral</div><img src='images/mllm-judge.jpg' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark[Github](https://github.com/Dongping-Chen/MLLM-Judge)[Website](https://mllm-judge.github.io/)[PDF](https://arxiv.org/abs/2402.04788)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
