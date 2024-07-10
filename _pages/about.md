@@ -32,9 +32,7 @@ Thank you for considering my application!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Oral</div><img src='images/mllm-judge.jpg' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<p>MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark [Github](https://github.com/Dongping-Chen/MLLM-Judge) [Website](https://mllm-judge.github.io/) [PDF](https://arxiv.org/abs/2402.04788)</p>
-
-<p>Dongping Chen *, Ruoxi Chen *, <strong>Shilin Zhang</strong> *, Yinuo Liu *, Yaochen Wang *, Huichi Zhou *, Qihui Zhang *, Yao Wan, Pan Zhou, Lichao Sun</p>
+<p><strong>MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark</strong> <a href="https://arxiv.org/abs/2402.04788">[PDF]</a> <a href="https://github.com/Dongping-Chen/MLLM-Judge">[Github]</a> <a href="https://mllm-judge.github.io/">[Website]</a></p>
 
 </div>
 </div>
