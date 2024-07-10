@@ -19,7 +19,6 @@ My latest CV can be viewed [here](https://torbjorn-zhang.github.io/cv07102024.pd
 Thank you for considering my application!
 
 
-
 # 🤖 Research Interests
 · **Robotics**: Advanced AI integration, autonomous navigation, dynamic environment adaptation.
 
