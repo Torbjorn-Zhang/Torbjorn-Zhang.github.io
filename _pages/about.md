@@ -36,8 +36,19 @@ MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchm
 
 Dongping Chen *, Ruoxi Chen *, <strong>Shilin Zhang</strong> *, Yinuo Liu *, Yaochen Wang *, Huichi Zhou *, Qihui Zhang *, Yao Wan, Pan Zhou, Lichao Sun
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 Findings</div><img src='images/ACL2024.jpg' width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase [Github](https://github.com/Dongping-Chen/MixSet) [Website](https://gui-world.github.io/) [PDF](https://arxiv.org/abs/2401.05952)
 
+Qihui Zhang *, Chujie Gao *, Dongping Chen *, Yue Huang, Yixin Huang, Zhenyang Sun, <strong>Shilin Zhang</strong>, Weiye Li, Zhengyan Fu, Yao Wan, Lichao Sun
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/pyramidinfer.png' width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference [Github](https://github.com/mutonix/pyramidinfer) [PDF](https://arxiv.org/abs/2405.12532) 
+
+---
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
