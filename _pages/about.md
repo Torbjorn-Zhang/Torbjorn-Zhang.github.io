@@ -20,9 +20,12 @@ Thank you for considering my application!
 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🤖 Research Interests
+· **Robotics**: Advanced AI integration, autonomous navigation, dynamic environment adaptation.
+
+· **Intelligent Manufacturing**: AI-driven automation, predictive analytics, real-time optimization.
+
+· **Edge Computing**: Low-latency, lightweight AI models, privacy and security at the network edge.
 
 # 📝 Publications 
 
