@@ -12,11 +12,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi. I'm Shilin Zhang.
-目前，我正在寻找robotics方向的master或者PhD导师。如果您有这方面的招生意向，请通过页面左侧的联系方式联系我。
+<span style="font-size: larger;">Hi! I'm Shilin Zhang. I am currently seeking opportunities to further my education and research in the field of robotics, either as a master's or PhD candidate. If you are interested in recruiting, please contact me using the contact information provided on the left side of this page.</span>
 
-我曾经随CMU的[Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/)进行optimization方面的研究，并随里海大学的[Lichao Sun](https://lichao-sun.github.io/)进行MLLM方向的研究。目前正在准备毕业论文和转向robotics方向的研究。  
-My latest CV can be viewed at [Here](#).
+---
+
+I have conducted research on optimization under the guidance of [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) at Carnegie Mellon University, and on machine learning language models (MLLM) with [Lichao Sun](https://lichao-sun.github.io/) at Lehigh University. I am currently preparing my graduation thesis and transitioning to focus more on robotics. My latest CV can be viewed [here](#).
+
+Thank you for considering my application!
 
 
 
