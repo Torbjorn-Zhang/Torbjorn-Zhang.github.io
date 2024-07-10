@@ -14,7 +14,7 @@ redirect_from:
 ## I am currently seeking opportunities to further my education and research in the field of robotics, either as a master's or PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
 
 I have conducted research on optimization under the guidance of [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) at Carnegie Mellon University, and on machine learning language models (MLLM) with [Lichao Sun](https://lichao-sun.github.io/) at Lehigh University. I am currently preparing my graduation thesis and transitioning to focus more on robotics. 
-My latest CV can be viewed [here]([#](https://github.com/Torbjorn-Zhang/Torbjorn-Zhang.github.io/blob/main/cv07102024.pdf)).
+My latest CV can be viewed [here](https://github.com/Torbjorn-Zhang/Torbjorn-Zhang.github.io/blob/main/cv07102024.pdf).
 
 Thank you for considering my application!
 
