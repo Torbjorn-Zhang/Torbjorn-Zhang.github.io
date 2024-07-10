@@ -54,20 +54,12 @@ Thank you for considering my application!
 <p>Dongjie Yang*, XiaoDong Han, Yan Gao, Yao Hu, <strong>Shilin Zhang</strong>, Hai Zhao*</p>
 </div>
 </div>
----
 
----
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+# 💻Study and Internship experiences
+- *2023.07 - 2023.11* Applied Optimization and Learning Research in Shanghai Jiao Tong University, Shanghai
+- *2023.04 - 2023.07* Porsche online PTA about New Energy Vehicle Charging Process Technology in Guangzhou
+- *2022.11 - 2023.01* Investigated production line issues within Stanley Electric at Stanley Electric Co., Ltd.
+- 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*, South China University of Technology, Intelligence Manufacturing 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
