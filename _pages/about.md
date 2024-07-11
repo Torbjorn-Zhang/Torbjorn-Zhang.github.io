@@ -36,10 +36,10 @@ Thank you for considering my application!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 Findings</div><img src='images/ACL2024.jpg' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 Findings</div><img src='images/mixcase.jpg' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<p><strong>LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase</strong> <a href="https://arxiv.org/abs/2401.05952">[PDF]</a> <a href="https://github.com/Dongping-Chen/MixSet">[Github]</a> <a href="https://gui-world.github.io/">[Website]</a></p>
+<p><strong>LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase</strong> <a href="https://arxiv.org/abs/2401.05952">[PDF]</a> <a href="https://github.com/Dongping-Chen/MixSet">[Github]</a> 
 
 <p>Qihui Zhang *, Chujie Gao *, Dongping Chen *, Yue Huang, Yixin Huang, Zhenyang Sun, <strong>Shilin Zhang</strong>, Weiye Li, Zhengyan Fu, Yao Wan, Lichao Sun</p>
 </div>
