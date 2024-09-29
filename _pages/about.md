@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# Hi! I'm Shilin Zhang, a Year 3 undergraduate at [SCUT](https://www.scut.edu.cn/en/) 🍀
+# Hi! I'm Shilin Zhang, a Year 4 undergraduate at [SCUT](https://www.scut.edu.cn/en/) 🍀
 ## I am currently seeking opportunities to further my education and research in the field of robotics🦾, either as a master's or PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
 
 I have conducted research on optimization under the guidance of [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) at Carnegie Mellon University, and further study on Multi-modal Large Language Model (MLLM) with [Lichao Sun](https://lichao-sun.github.io/) at Lehigh University. I am currently preparing my graduation thesis and transitioning to focus more on robotics and manufacturing. 
