@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-# Hi! I'm Shilin Zhang, a Year 4 undergraduate at [SCUT](https://www.scut.edu.cn/en/) 🍀
-## I am currently seeking opportunities to further my education and research in the field of LLM and robotics🦾, either as a master's or PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
+# Hi! I'm Shilin Zhang, I'm a visiting student from [Prof. Chang Xu](http://changxu.xyz/)'s group, working with [Prof. Mingkai Zheng](https://mingkai-zheng.github.io/).  🍀
+## I am currently seeking opportunities to further my education and research in the field of LLM and multi-agent systems🦾,as a PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
 
 I have conducted research on optimization under the guidance of [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) at Carnegie Mellon University, and further study on Multi-modal Large Language Model (MLLM) with [Lichao Sun](https://lichao-sun.github.io/) at Lehigh University. I am currently preparing my graduation thesis and transitioning to focus more on robotics and manufacturing. 
 My latest CV can be viewed [here](https://torbjorn-zhang.github.io/cv07102024.pdf).
@@ -24,7 +24,7 @@ Thank you for considering my application!
 
 · **Robotics**: Advanced AI integration, autonomous navigation, dynamic environment adaptation.
 
-· **Intelligent Manufacturing**: AI-driven automation, predictive analytics, real-time optimization.
+· **Multi-agent Systems**: Agent-driven solutions, multi-agent frameworks.
 
 # 📝 Publications 
 
@@ -60,5 +60,6 @@ Thank you for considering my application!
 - *2022.11 - 2023.01* Investigated production line issues within Stanley Electric at Stanley Electric Co., Ltd.
 
 # 📖 Educations
-- *2021.09 - now*, South China University of Technology, Intelligence Manufacturing 
+- *2021.09 - 2025.6*, South China University of Technology, Intelligence Manufacturing
+- *2025.05 - now*, Southern University of Science and Technology, Mingkai's Lab
 
