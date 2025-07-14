@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# Hi! I'm Shilin Zhang, I'm a visiting student from [Prof. Chang Xu](http://changxu.xyz/)'s group, working with [Prof. Mingkai Zheng](https://mingkai-zheng.github.io/).  🍀
+# Hi! I'm Shilin Zhang, I'm a student from The University of Sydney, [Prof. Chang Xu](http://changxu.xyz/)'s group. I'm currently working with [Prof. Mingkai Zheng](https://mingkai-zheng.github.io/) as a visiting student.  🍀
 ## I am currently seeking opportunities to further my education and research in the field of LLM and multi-agent systems🦾,as a PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
 
 I have conducted research on optimization under the guidance of [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) at Carnegie Mellon University, and further study on Multi-modal Large Language Model (MLLM) with [Lichao Sun](https://lichao-sun.github.io/) at Lehigh University. I am currently preparing my graduation thesis and transitioning to focus more on robotics and manufacturing. 
