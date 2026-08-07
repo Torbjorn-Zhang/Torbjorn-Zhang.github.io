@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-# Hi! I'm Shilin Zhang, a student from The University of Sydney, [Prof. Chang Xu](http://changxu.xyz/)'s group. I'm currently working with [Prof. Mingkai Zheng](https://mingkai-zheng.github.io/) as a visiting student.  🍀
-## I am currently seeking opportunities to further my education and research in the field of LLM and multi-agent systems🦾,as a PhD candidate. If you are interested in recruiting, please contact me at torbjornclancy@gmail.com :-) 
+# Hi! I'm Shilin Zhang, a student from The University of Sydney, currently working with [Prof. Chang Xu](http://changxu.xyz/) as a Master of Philosophy student.🍀
+
 
 I have conducted research on optimization under the guidance of [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) at Carnegie Mellon University, and further study on Multi-modal Large Language Model (MLLM) with [Lichao Sun](https://lichao-sun.github.io/) at Lehigh University. I am currently preparing my graduation thesis and transitioning to focus more on robotics and manufacturing. 
 My latest CV can be viewed [here](https://torbjorn-zhang.github.io/cv10222024(With GPA).pdf).
@@ -20,9 +20,9 @@ Thank you for considering my application!
 
 
 # 🤖 Research Interests
-· **Large Language Models**: Basic Algorithms, applications related to LLMs
-
 · **Robotics**: Advanced AI integration, autonomous navigation, dynamic environment adaptation.
+
+· **Large Language Models**: Basic Algorithms, applications related to LLMs
 
 · **Multi-agent Systems**: Agent-driven solutions, multi-agent frameworks.
 
@@ -60,6 +60,6 @@ Thank you for considering my application!
 - *2022.11 - 2023.01* Investigated production line issues within Stanley Electric at Stanley Electric Co., Ltd.
 
 # 📖 Educations
-- *2021.09 - 2025.6*, South China University of Technology, Intelligence Manufacturing
-- *2025.05 - now*, Southern University of Science and Technology, Mingkai's Lab
-
+- *2021.09 - 2025.06*, South China University of Technology, Intelligence Manufacturing
+- *2025.05 - 2026.02*, Southern University of Science and Technology, Mingkai's Lab
+- *2026.02 - now*, University of Sydney
