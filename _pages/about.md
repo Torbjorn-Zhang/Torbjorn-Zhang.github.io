@@ -15,8 +15,6 @@ redirect_from:
 
 I have conducted research on optimization under the guidance of [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) at Carnegie Mellon University, and further study on Multi-modal Large Language Model (MLLM) with [Lichao Sun](https://lichao-sun.github.io/) at Lehigh University. I am currently preparing my graduation thesis and transitioning to focus more on robotics and manufacturing. 
 
-Thank you for considering my application!
-
 
 # 🤖 Research Interests
 · **Robotics**: Advanced AI integration, autonomous navigation, dynamic environment adaptation.
